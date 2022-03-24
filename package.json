@@ -23,5 +23,6 @@
     "del-cli": "^4.0.1",
     "parcel": "^2.4.0"
   },
+  
   "browserslist": ["Firefox>95", "Chrome>95"]
 }
